@@ -26,7 +26,7 @@ ABIJson.forEach((value,key) => {
 
 
 //https://learnblockchain.cn/article/1792
-web3.eth.ens.getAddress("币安网.eth").then(function (address) {
+web3.eth.ens.getAddress("nickyeth.eth").then(function (address) {
     console.log(address);
 })
 
